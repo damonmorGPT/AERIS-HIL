@@ -12,3 +12,17 @@ logs/*
 
 # OS
 .DS_Store
+
+# Robot outputs
+output.xml
+log.html
+report.html
+
+# Generated folders
+reports/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
